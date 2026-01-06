@@ -8,6 +8,8 @@ Um tema de Plymouth elegante e minimalista inspirado no estilo visual do macOS, 
   Integração visual perfeita com a estética do CachyOS.
   Suporte a altas resoluções (HiDPI).
 
+  ![Legenda da imagem](screenshot.png)
+
 🛠️ Instalação no CachyOS
 
 Como o CachyOS é baseado em Arch Linux, o processo é bem simples. Siga os passos abaixo no seu terminal:
